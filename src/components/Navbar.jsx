@@ -34,7 +34,7 @@ export default function Navbar() {
         <div className="flex items-center gap-6">
           <span className="flex items-center gap-1.5 text-[#af7323]">
             <RiPhoneLine />
-            <span className="text-white">+91 98765 43210</span>
+            <span className="text-white">+91 7004397655</span>
           </span>
           <span className="flex items-center gap-1.5 text-[#af7323]">
             <RiMailLine />
