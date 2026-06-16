@@ -4,7 +4,7 @@ const OFFICES = [
   {
     city: "Noida",
     tag: "Headquarters",
-    address: "Plot No. 12, Sector 62, Noida,\nUttar Pradesh – 201 309",
+    address: "Galaxy Diamond Plaza, Noida,\nUttar Pradesh – 201 309",
     phone: "+91 7004397655",
     email: "info@avyayadevelopers.com",
     hours: "Mon – Sat, 10 AM – 7 PM",

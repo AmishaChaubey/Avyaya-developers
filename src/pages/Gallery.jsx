@@ -277,7 +277,7 @@ export default function GalleryPage() {
     <div style={{ background: "#f7f4ef", color: "#12243d", fontFamily: "'Georgia', serif", overflowX: "hidden" }}>
 
       <style>{`
-        * { box-sizing: border-box; margin: 0; padding: 0; }
+      
 
         .filter-pill {
           padding: 0.5rem 1.2rem;

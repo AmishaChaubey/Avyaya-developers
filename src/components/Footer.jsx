@@ -141,7 +141,7 @@ export default function Footer() {
             <li className="flex gap-3">
               <RiMapPinLine className="text-[#af7323] text-xl shrink-0 mt-0.5" />
               <span className="text-gray-400 text-sm leading-relaxed">
-                Plot No. 5, Sector 63, Ghaziabad,<br />Uttar Pradesh – 201301
+                Galaxy Diamond Plaza,Noida<br />Uttar Pradesh – 201301
               </span>
             </li>
             <li className="flex gap-3 items-center">
@@ -150,7 +150,7 @@ export default function Footer() {
                 href="tel:+919876543210"
                 className="text-gray-400 text-sm hover:text-[#af7323] transition"
               >
-                +91 98765 43210
+                +91 7004397655
               </a>
             </li>
             <li className="flex gap-3 items-center">
